@@ -541,9 +541,9 @@ h3 {
     height: 120vh;
     width: 100%;
     background-image: url('./images/p28.png');
-    background-size: cover;  /* Ensures the image covers the entire element */
-    background-position: center bottom; /* Focuses on the center */
-    background-attachment: fixed;  /* Creates parallax effect */
+    background-size: contain;  /* Ensures the entire image fits */
+    background-position: center center; /* Keeps the image centered */
+    background-attachment: fixed;
     background-repeat: no-repeat;
 }
 
