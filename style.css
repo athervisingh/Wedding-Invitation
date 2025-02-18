@@ -540,9 +540,9 @@ h3 {
 .hands {
     height: 120vh;
     width: 100%;
-    background-image: url('./images/p22.png');
+    background-image: url('./images/p28.png');
     background-size: cover;  /* Ensures the image covers the entire element */
-    background-position: center center; /* Focuses on the center */
+    background-position: center bottom; /* Focuses on the center */
     background-attachment: fixed;  /* Creates parallax effect */
     background-repeat: no-repeat;
 }
